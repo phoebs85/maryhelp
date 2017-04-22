@@ -1,0 +1,130 @@
+body{ background:url(../img/green_bg.jpg) no-repeat center top;}
+body .page_box .page_main .text p{color:#666666;}
+.content .main .main_right .alumni_slide{ height:380px;}
+.page .main .main_right .slide { background-position: right top;height: 135px;width: 725px;}
+.page .main { height:auto; min-height:550px; }
+.content .main .main_left { float:left; width:203px; min-height:607px; padding-top:54px; }
+
+.alumni_top .top_link {background:url(../img/top_link_bg2.png) no-repeat scroll left top;}
+.alumni_top .top_link a{ background:url(../c/Alumni_action/images/top_link.png) no-repeat no-repeat -8px -1px; wposition:absolute; top:1px; left:8px;}
+.alumni_top .top_link a:hover{ background-image:url(../c/Alumni_action/images/top_link_on.png);}
+
+.alumni_top .top_link_e {background:url(../img/top_link_bg2_e.png) no-repeat scroll left top;}
+.alumni_top .top_link_e a{ background:url(../html/Alumni_action/images/top_link.png) no-repeat no-repeat -8px -1px; wposition:absolute; top:1px; left:8px;}
+.alumni_top .top_link_e a:hover{ background-image:url(../html/Alumni_action/images/top_link_on.png);}
+
+.alumni_infos{  padding-left:32px; }
+.alumni_infos p{ padding:0px 0 20px 0; width:385px; float:left; padding-right:23px; color:#666666}
+.alumni_bot{ padding:32px}
+.alumni_top .logo2{ width:353px; height:53px; padding-right:20px; padding-top:3px;}
+.alumni_top{ background:url(../img/green_top_bg.jpg) no-repeat top; height:94px;}
+.alumni_top .langage{ background:url(../img/green_language_bg.png) no-repeat ; }
+.alumni_top .langage a{ background:url(../img/green_language.png) no-repeat 0 -15px;} 
+
+.content .main .main_left .alumni_nav li { height:41px; line-height:41px;}
+
+.content .main .main_left .alumni_nav li a { display:block; height:41px; background:url(../c/Alumni_action/images/nav_hov.png) no-repeat 0 0; }
+.content .main .main_left .alumni_nav li:hover,.content .main .main_left .alumni_nav li.on { background:#00006c;}
+.content .main .main_left .alumni_nav li.about a { background-position:0 0px;}
+.content .main .main_left .alumni_nav li.about a:hover{ background-position:0 -40px;}
+.content .main .main_left .alumni_nav li.about.on a{ background-position:0 -40px;}
+.content .main .main_left .alumni_nav li.promotion a { background-position:0 -80px;}
+.content .main .main_left .alumni_nav li.promotion a:hover { background-position:0 -120px;}
+.content .main .main_left .alumni_nav li.promotion.on a{background-position:0 -120px;}
+.content .main .main_left .alumni_nav li.senior a { background-position:0 -160px;}
+.content .main .main_left .alumni_nav li.senior a:hover{ background-position:0 -200px;}
+.content .main .main_left .alumni_nav li.senior.on a { background-position:0 -200px;}
+.content .main .main_left .alumni_nav li.news a { background-position:0 -240px;}
+.content .main .main_left .alumni_nav li.news a:hover { background-position:0 -280px;}
+.content .main .main_left .alumni_nav li.news.on a{ background-position:0 -280px;}
+.content .main .main_left .alumni_nav li.support a { background-position:0 -320px;}
+.content .main .main_left .alumni_nav li.support a:hover{ background-position:0 -360px;}
+.content .main .main_left .alumni_nav li.support.on a{ background-position:0 -360px;}
+.content .main .main_left .alumni_nav li.activy a { background-position:0 -400px;}
+.content .main .main_left .alumni_nav li.activy a:hover { background-position:0 -440px;}
+.content .main .main_left .alumni_nav li.activy.on a { background-position:0 -440px;}
+.content .main .main_left .alumni_nav li.share a { background-position:0 -480px;}
+.content .main .main_left .alumni_nav li.share a:hover { background-position:0 -520px;}
+.content .main .main_left .alumni_nav li.share.on a{ background-position:0 -520px;}
+.content .main .main_left .alumni_nav li.contact a { background-position:0 -560px;}
+.content .main .main_left .alumni_nav li.contact a:hover { background-position:0 -600px;}
+.content .main .main_left .alumni_nav li.contact.on a { background-position:0 -600px;}
+.content .content_bottom_img { background:url(../img/green_content_bg.png) no-repeat center bottom); bottom: 0; height: 42px; left:-1px;position: absolute; width: 100%;}
+
+
+.content .main .main_left .alumni_nav_e li {margin-bottom:1px;}
+.content .main .main_left .alumni_nav_e li a { display:block; height:40px; background:url(../html/Alumni_action/images/nav_hov.png) no-repeat 0 0; }
+.content .main .main_left .alumni_nav_e li:hover,.content .main .main_left .alumni_nav_e li.on { background:#00006c;}
+.content .main .main_left .alumni_nav_e li.about a { background-position:0 0px;}
+.content .main .main_left .alumni_nav_e li.about a:hover{ background-position:0 -40px;}
+.content .main .main_left .alumni_nav_e li.about.on a{ background-position:0 -40px;}
+.content .main .main_left .alumni_nav_e li.promotion a { background-position:0 -80px; height:82px;}
+.content .main .main_left .alumni_nav_e li.promotion a:hover { background-position:0 -162px;}
+.content .main .main_left .alumni_nav_e li.promotion.on a{background-position:0 -162px;}
+.content .main .main_left .alumni_nav_e li.senior a { background-position:0 -244px; height:62px;}
+.content .main .main_left .alumni_nav_e li.senior a:hover{ background-position:0 -306px;}
+.content .main .main_left .alumni_nav_e li.senior.on a { background-position:0 -306px;}
+.content .main .main_left .alumni_nav_e li.news a { background-position:0 -368px;}
+.content .main .main_left .alumni_nav_e li.news a:hover { background-position:0 -408px;}
+.content .main .main_left .alumni_nav_e li.news.on a{ background-position:0 -408px;}
+.content .main .main_left .alumni_nav_e li.support a { background-position:0 -448px;}
+.content .main .main_left .alumni_nav_e li.support a:hover{ background-position:0 -488px;}
+.content .main .main_left .alumni_nav_e li.support.on a{ background-position:0 -488px;}
+.content .main .main_left .alumni_nav_e li.activy a { background-position:0 -528px;}
+.content .main .main_left .alumni_nav_e li.activy a:hover { background-position:0 -568px;}
+.content .main .main_left .alumni_nav_e li.activy.on a { background-position:0 -568px;}
+.content .main .main_left .alumni_nav_e li.share a { background-position:0 -608px;}
+.content .main .main_left .alumni_nav_e li.share a:hover { background-position:0 -648px;}
+.content .main .main_left .alumni_nav_e li.share.on a{ background-position:0 -648px;}
+.content .main .main_left .alumni_nav_e li.contact a { background-position:0 -688px;}
+.content .main .main_left .alumni_nav_e li.contact a:hover { background-position:0 -728px;}
+.content .main .main_left .alumni_nav_e li.contact.on a { background-position:0 -728px;}
+
+/*sitmap*/
+.page_main .map_text{ margin-right:-28px;}
+.alumni_sitemap .text { margin-top:30px; margin-bottom:20px; }
+.alumni_sitemap .text .map_top img{ display:block; margin:0 auto;  width:569px; height:49px;}
+.alumni_sitemap .text .map_top p{ font-size: 16px; text-indent: 0; font-family:"Microsoft YaHei"; font-weight:bold;text-align:center; width:120px; height:33px; line-height:33px; margin:0 auto;}
+.alumni_sitemap .text ul {  float: left;  height: 160px; padding:0 10px; white-space:nowrap; width:150px;}
+.alumni_sitemap .text  .spe{ padding:10px 20px;}
+.alumni_sitemap ul li { line-height: 26px;}
+.alumni_sitemap .text ul li.sitmap_title { font-size: 16px; margin-bottom: 12px; font-weight:bold; text-indent: 0; font-family:"Microsoft YaHei";}
+         
+ .alumni_senior .t_left{ width:513px; float:left; padding-right:20px;}
+.alumni_senior .t_right{ float:right; width:185px;}
+.page_box  .alumni_senior  .text b{ display:block; padding:20px 0; color:#390;}
+.page_box  .alumni_senior  .text b a:link,.page_box  .alumni_senior  .text b a:visited{ color:#390;}
+.page_box  .alumni_senior  .text b a:hover{ color:#aa2727;}
+.page_box  .alumni_senior  .text p a:link,.page_box  .alumni_senior  .text p a:visited{ color:#390; text-decoration:underline;}
+
+.page_box  .alumni_senior  .text p a:hover{ color:#aa2727;text-decoration:none; }
+/*alumni_activy*/
+.alumni_activy .text ul li{ background:url(../c/Alumni_action/images/event_li_bg.png) no-repeat scroll 2px 19px; border-bottom: 1px solid #EEEEEE;height: 43px;line-height: 44px;padding-left: 13px; width:705px;}
+.alumni_activy .text ul li span{ color: #DE0052;margin-right: 10px;}
+.alumni_activy .text ul li a{color: #7A7A7A;font-size: 13px; font-weight: bold;}
+.alumni_activy .text ul li a:link,.alumni_activy .text ul li a:visited{color: #7A7A7A;}
+.alumni_activy .text ul li a:hover{color:#de0052;}
+/*分享*/
+.page_box  .alumni_share  .text p a:link,.page_box  .alumni_share  .text p a:visited{ color:#390; text-decoration:underline;}
+.page_box  .alumni_share  .text p a:hover{ color:#aa2727; }
+
+/* 关于我们*/
+.p_image .left{ width:368px; hanging-punctuation:200px; float:left; padding:0 20px;}
+.p_image .right{ float:left; width:200px; padding:0 0 0 50px;}
+.page_box .page_main .text .p_image .right p{ margin-bottom:20px;}
+.page_box .page_main .text .about_table b { color:#339900; overflow:hidden;}
+.page_box .page_main .text .about_table  table {border-top:1px #339900 solid; border-right:1px #339900 solid;}
+.page_box .page_main .text .about_table  table tr td{ border-bottom:1px #339900 solid; border-left:1px #339900 solid;}
+.page_box .page_main .text .about_table  table tr td{padding: 10px;}
+.table_table tr td{ border:1px #ffffff solid; border-left:1px #ffffff solid;}
+
+
+/* 最新消息*/
+.alumni_about .page_main .year { height:29px; margin-bottom:44px;width: 300%;position: absolute;}
+.alumni_about .page_main .year li{ float:left;}
+.alumni_about .page_main .top_year{ width: 655px; overflow:hidden; float: left; margin: 0 10px;position: relative;height: 60px;}
+.alumni_about .page_main .year li a { display:block; width:120px; height:29px; float:left; border:solid 1px #e2e2e2; font-size:16px; color:#d1004d; text-align:center; line-height:31px;   margin:0 6px 0 4px; font-weight:bold; }
+.alumni_about .page_main .year li a:hover,.alumni_about .page_main .year li.on a { border-color:#FFF; background:#d1004d; color:#FFF; font-weight:bold;}
+
+
+ 
