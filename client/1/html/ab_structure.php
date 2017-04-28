@@ -37,34 +37,38 @@ $(function(){
 </head>
 
 <body>
-<?php include"include_top.php" ?>
+<?php include"include_top.php"?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php" ?>
+    <?php include"include_left_nav.php"?>
     <div class="main_right">
       <div class="slide">
         <img src="../img/page_history_baner.jpg" width="720" height="135" />
       </div>
       <div class="page_box about">
         <div class="instructions">
-          <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">History</span></span>
-          <!--
-          <ul>
-          	<li class="<?php if($location=='ab_family.php') echo'on'?>"><a href="ab_family.php">FMA</a></li>
-            <li class="<?php if($location=='ab_history.php') echo'on'?>"><a href="ab_history.php">History</a></li>
-            <li class="<?php if($location=='ab_committee.php') echo'on'?>"><a href="ab_committee.php">Committee Member</a></li>
-            <li class="<?php if($location=='ab_members.php') echo'on'?>"><a href="ab_members.php">Membership</a></li>
-            <li class="<?php if($location=='ab_alumni.php') echo'on'?>"><a href="Alumni_action/alumni_index.php">AinA</a></li>
-            <li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>
-          </ul>
-          //-->
+          <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">OLC PPA Structure</span></span>
         </div>
         <div class="page_main">
-          <h3><img src="img/ab_history_h3.png" height="26" /></h3>
+          <h3><img src="img/ab_mission_h3.png" height="26" /></h3>
           <div class="text">
-          	 <p>The World Confederation of the Past Pupils of Daughters of Mary Help of Christians was founded in 1908 by Father Rinaldi, the fourth successor of San Giovanni Bosco . The mission of the association  is to promote the teachings of San Giovanni Bosco on unity: "You have to unite and help each other." </p>
-            <p>The Assoicationis now an international organization, serving several hundred thousands of people in over sixty countries. One of the Superior Generals from the General Council of the Daughters of Mary Help of Christians is in charge of the affairs concerning the Association. </p>
-            <p>Our Lady College’s Past Pupils Association was established in June 1965.We currently have more than 5,000 past pupils in our network.</p>
+
+            <div class="text_tit">
+              <ul>
+                 <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">World Confederation</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">OLC PPA Internal Structure</a></li>
+              </ul>
+            </div>
+            <div class="clear"></div>
+
+            <div class="text_cont" name="cont">
+            <p><img src="../img/about_1_e.jpg"/></p>
+            </div>
+
+            <div class="text_cont" name="cont" style="display:none;">
+            <p>All members of the Executive Committee are elected by the General Meeting for two years. shall responsible for the day to day operation and handling the affairs of the Association. </p>
+            <p><a href="ab_committee.php"><img src="../img/about_2_e.jpg"/></a></p>
+            </div>
 
           </div>
         </div>

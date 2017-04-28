@@ -7,27 +7,27 @@
 <link href="../css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
 <script src="../js/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-$(function(){  
-  
+$(function(){
+
   if($(window).innerWidth()<= 989){
     $("body").css("background","url(../img/bg1.jpg) no-repeat left top");
 	$(".top").css("background","url(../img/top_bg1.jpg) no-repeat left top");
-	$(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top"); 
+	$(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top");
   }else{
 	 $("body").css("background","url(../img/bg.jpg) no-repeat center top");
 	 $(".top").css("background","url(../img/top_bg.jpg) no-repeat center top");
-	 $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");  
+	 $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");
   }
-  
+
   $(window).resize(function(){
     if($(window).innerWidth()<= 989){
       $("body").css("background","url(../img/bg1.jpg) no-repeat left top");
 	  $(".top").css("background","url(../img/top_bg1.jpg) no-repeat left top");
-	  $(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top"); 
+	  $(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top");
 	}else{
 	  $("body").css("background","url(../img/bg.jpg) no-repeat center top");
 	  $(".top").css("background","url(../img/top_bg.jpg) no-repeat center top");
-	  $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");  
+	  $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");
     }
   });
 });
@@ -38,30 +38,31 @@ $(function(){
 <?php include"include_top.php"?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php"?>   
+    <?php include"include_left_nav.php"?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_history_baner.jpg" width="720" height="135" /> 
+        <img src="../img/page_history_baner.jpg" width="720" height="135" />
       </div>
-      <div class="page_box about committee">        
+      <div class="page_box about committee">
         <div class="instructions">
-         
+         <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">Committee Member</span></span>
+         <!--
           <ul>
           	<li class="<?php if($location=='ab_family.php') echo'on'?>"><a href="ab_family.php">FMA</a></li>
             <li class="<?php if($location=='ab_history.php') echo'on'?>"><a href="ab_history.php">History</a></li>
             <li class="<?php if($location=='ab_committee.php') echo'on'?>"><a href="ab_committee.php">Committee Member</a></li>
             <li class="<?php if($location=='ab_members.php') echo'on'?>"><a href="ab_members.php">Membership</a></li>
             <li class="<?php if($location=='ab_alumni.php') echo'on'?>"><a href="Alumni_action/alumni_index.php">AinA</a></li>
-            <!--<li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>-->
-            
+            <li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>
           </ul>
+          //-->
         </div>
         <div class="page_main">
           <h3><img src="img/ab_committee_h3.png" height="26" /></h3>
           <div class="text">
           <img src="../img/ab_committee.jpg" width="600" height="247" /><br />
           <br />Email Contact: <a href="mailto:ppa@olc.edu.hk" target="_blank">ppa@olc.edu.hk</a><br />
-<br />
+          <br />
 
             <table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
               <tr>
@@ -84,7 +85,7 @@ $(function(){
                 <td>蔡珮雯</td>
                 <td>Teacher Advisor</td>
               </tr>
-             
+
             </table><br />
 <br />
 <table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
@@ -183,12 +184,12 @@ $(function(){
                 <td>孫詠詩</td>
                 <td>Marketing & Publicity </td>
               </tr>
-              
-             
-            </table>
-    
 
-            
+
+            </table>
+
+
+
           </div>
         </div>
       </div>
