@@ -7,27 +7,27 @@
 <link href="../css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
 <script src="../js/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-$(function(){  
-  
+$(function(){
+
   if($(window).innerWidth()<= 989){
     $("body").css("background","url(../img/bg1.jpg) no-repeat left top");
 	$(".top").css("background","url(../img/top_bg1.jpg) no-repeat left top");
-	$(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top"); 
+	$(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top");
   }else{
 	 $("body").css("background","url(../img/bg.jpg) no-repeat center top");
 	 $(".top").css("background","url(../img/top_bg.jpg) no-repeat center top");
-	 $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");  
+	 $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");
   }
-  
+
   $(window).resize(function(){
     if($(window).innerWidth()<= 989){
       $("body").css("background","url(../img/bg1.jpg) no-repeat left top");
 	  $(".top").css("background","url(../img/top_bg1.jpg) no-repeat left top");
-	  $(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top"); 
+	  $(".content_bottom_img").css("background","url(../img/content_bg1.png) no-repeat left top");
 	}else{
 	  $("body").css("background","url(../img/bg.jpg) no-repeat center top");
 	  $(".top").css("background","url(../img/top_bg.jpg) no-repeat center top");
-	  $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");  
+	  $(".content_bottom_img").css("background","url(../img/content_bg.png) no-repeat center top");
     }
   });
 });
@@ -35,31 +35,32 @@ $(function(){
 </head>
 
 <body>
-<?php include"include_top.php"?>
+<?php include"include_top.php" ?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php"?>   
+    <?php include"include_left_nav.php" ?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_history_baner.jpg" width="720" height="135" /> 
+        <img src="../img/page_history_baner.jpg" width="720" height="135" />
       </div>
-      <div class="page_box about">        
+      <div class="page_box about">
         <div class="instructions">
-          <!--<span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span> <span class="now" title="母佑會及慈幼大家庭">母佑...</span></span>-->
+          <span class="loca">主頁 <span class="lin">></span><span class="now" title="關於我們">關於我們</span></span>
+          <!--
           <ul>
           	<li class="<?php if($location=='ab_family.php') echo'on'?>"><a href="ab_family.php">FMA母佑舊同學會資訊</a></li>
             <li class="<?php if($location=='ab_history.php') echo'on'?>"><a href="ab_history.php">歷 史</a></li>
             <li class="<?php if($location=='ab_committee.php') echo'on'?>"><a href="ab_committee.php">幹事成員</a></li>
             <li class="<?php if($location=='ab_members.php') echo'on'?>"><a href="ab_members.php">會 員</a></li>
             <li class="<?php if($location=='ab_alumni.php') echo'on'?>"><a href="Alumni_action/alumni_index.php">校友行動</a></li>
-            <!--<li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>-->
-            
+            <li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>
           </ul>
+          //-->
         </div>
         <div class="page_main">
           <h3><img src="img/ab_family_h3.png" width="305" height="26" /></h3>
           <img src="../img/ab_family_3.jpg" width="720" height="284"/><br /><br />
-          
+
           <div class="text tables"><img src="../img/ab_family_1.jpg" width="185" height="139"  style=" float:right; padding:0 0 30px 30px"/>
             <p>The World Confederation of the Past Pupils of Daughters of Mary Help of Christians is a lay non-profit association . It is one of the members of the Salesian Family, where the Rector Major is the Chancellor and the centre of the association. The members are numerous, consisting of person of every age, culture and social status. Every past pupil works to grow as a person according to the Preventive System of Don Bosco: REASON - RELIGION – LOVING KINDNESS. In other words, the human values of DIGNITY, FAITH and SOLIDARITY, with the sensitiveness of the Salesian Charism of  Maria Domenica Mazzarello, cofoundress of the Institute of Daughters of Mary Help of Christians.</p>
             <b>Every past pupil works for the affirmation of the values where the dignity of the human person is based, working in different fields:</b>
