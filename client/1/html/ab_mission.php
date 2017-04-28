@@ -37,35 +37,29 @@ $(function(){
 </head>
 
 <body>
-<?php include"include_top.php" ?>
+<?php include"include_top.php"?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php" ?>
+    <?php include"include_left_nav.php"?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_history_baner.jpg" width="720" height="135" />
+        <img src="../img/page_senior.jpg" />
       </div>
       <div class="page_box about">
         <div class="instructions">
-          <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">History</span></span>
-          <!--
-          <ul>
-          	<li class="<?php if($location=='ab_family.php') echo'on'?>"><a href="ab_family.php">FMA</a></li>
-            <li class="<?php if($location=='ab_history.php') echo'on'?>"><a href="ab_history.php">History</a></li>
-            <li class="<?php if($location=='ab_committee.php') echo'on'?>"><a href="ab_committee.php">Committee Member</a></li>
-            <li class="<?php if($location=='ab_members.php') echo'on'?>"><a href="ab_members.php">Membership</a></li>
-            <li class="<?php if($location=='ab_alumni.php') echo'on'?>"><a href="Alumni_action/alumni_index.php">AinA</a></li>
-            <li class="<?php if($location=='ab_support.php') echo'on'?>"><a href="ab_support.php">支持</a></li>
-          </ul>
-          //-->
+          <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">Mission and Vision</span></span>
         </div>
         <div class="page_main">
-          <h3><img src="img/ab_history_h3.png" height="26" /></h3>
+          <h3><img src="img/ab_mission_h3.png" height="26" /></h3>
           <div class="text">
-          	 <p>The World Confederation of the Past Pupils of Daughters of Mary Help of Christians was founded in 1908 by Father Rinaldi, the fourth successor of San Giovanni Bosco . The mission of the association  is to promote the teachings of San Giovanni Bosco on unity: "You have to unite and help each other." </p>
-            <p>The Assoicationis now an international organization, serving several hundred thousands of people in over sixty countries. One of the Superior Generals from the General Council of the Daughters of Mary Help of Christians is in charge of the affairs concerning the Association. </p>
-            <p>Our Lady College’s Past Pupils Association was established in June 1965.We currently have more than 5,000 past pupils in our network.</p>
-
+              <ol>
+                  <li>To promote and maintain friendships among past pupils</li>
+                  <li>To express concern for our past pupils who are playing different roles in society</li>
+                  <li>To encourage and support past pupils who are in difficulties</li>
+                  <li>To promote the friendship  between our past students and the sisters in Mary Help of Christians as well as the Salesian Family</li>
+                  <li>To keep up the spirits of Our Lady’s College</li>
+              </ol>
+              <p></p>
           </div>
         </div>
       </div>
