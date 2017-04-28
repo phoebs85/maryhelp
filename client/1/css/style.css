@@ -63,7 +63,8 @@ p{ line-height:20px;}
 .content .main .main_left .nav li.promotion a { background-position:0 -326px;}
 .content .main .main_left .nav li.senior a { background-position:0 -367px;}
 .content .main .main_left .nav li.share a { background-position:0 -408px;}
-.content .main .main_left .nav li ul { width:217px; height:205px; padding-top:8px; background:url(../img/black_bg.png); position:absolute; left:179px; top:95px; z-index:1; display:none;}
+.content .main .main_left .nav li ul { width:217px; height:238px; padding-top:8px; background:url(../img/black_bg.png); position:absolute; left:179px; top:95px; z-index:1; display:none;}
+.content .main .main_left .nav li.senior ul { height:75px; top:218px}
 .content .main .main_left .nav li ul li { height:32px;}
 .content .main .main_left .nav li ul li:hover { background:none; }
 .content .main .main_left .nav li ul li a { background:none; display:block; height:32px; padding-left:24px; color:#FFF; font-size:14px; line-height:32px;}
@@ -286,3 +287,10 @@ p{ line-height:20px;}
 .news_tit .link{ float:right; padding:42px 30px 0 0;}
 .news_tit .link a:link,.news_tit .link a:visited{ color:#DE0052;}
 .news_tit .link a:hover{ text-decoration:underline;}
+
+/*alumni_activy*/
+.alumni_activy .text ul li{ background:url(../c/Alumni_action/images/event_li_bg.png) no-repeat scroll 2px 19px; border-bottom: 1px solid #EEEEEE;height: 43px;line-height: 44px;padding-left: 13px; width:705px;}
+.alumni_activy .text ul li span{ color: #DE0052;margin-right: 10px;}
+.alumni_activy .text ul li a{color: #7A7A7A;font-size: 13px; font-weight: bold;}
+.alumni_activy .text ul li a:link,.alumni_activy .text ul li a:visited{color: #7A7A7A;}
+.alumni_activy .text ul li a:hover{color:#de0052;}

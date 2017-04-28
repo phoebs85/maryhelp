@@ -42,24 +42,25 @@ $(function(){
     <?php include"include_left_nav.php"?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_senior.jpg" />
+        <a class="img"><img src="Alumni_action/images/page_activities_baner.jpg"  width="720" height="135"/></a>
       </div>
-      <div class="page_box about">
+      <div class="page_box alumni_activy">
         <div class="instructions">
-         <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span>  <span class="now">宗旨</span></span>
+          <span class="loca">主頁 <span class="lin">></span> 學長計劃 <span class="lin">></span> <span class="now">活動</span></span>
         </div>
         <div class="page_main">
-           <h3><img src="img/ab_mission_h3.png" height="26" /></h3>
-           <div class="text">
-              <ol>
-                 <li>維繫舊同學間的友誼</li>
-                 <li>關心舊同學在社會上不同崗位中的需要</li>
-                 <li> 在精神、物質上彼此扶持，彼此鼓勵</li>
-                 <li>繼續舊同學與母佑會修女及慈幼大家庭之間的友誼</li>
-                 <li>發揚母校的精神</li>
-             </ol>
-             <p></p>
-           </div>
+        	<h3><img src="Alumni_action/images/tit6.png" width="100" height="29" /></h3>
+            <div class="text">
+            <ul>
+
+            	<?php include "Alumni_action/include_files/_alumni_activy0.php"; ?>
+            	<?php include "Alumni_action/include_files/_alumni_activy1.php"; ?>
+
+                <!--<li><span>2014年3月8日</span><a href="alumni_activy_detail.php">「燃亮薪火起動同行」 步行籌款 2:30pm to 4:30pm</a></li>
+                <li><span>2014年3月29日</span><a href="alumni_activy_detail.php">Career Talk 職業講座 2:30 to 4:00pm</a></li>-->
+            </ul>
+
+          </div>
         </div>
       </div>
     </div>

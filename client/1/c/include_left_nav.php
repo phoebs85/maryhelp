@@ -44,15 +44,15 @@ $contactMenuArray = array("contact.php");
 
             <li><a href="ab_history.php"><span>-</span> 歷史</a></li>
 
-            <li><a href="ab_mission.php"><span>-</span> Mission and Vision</a></li>
+            <li><a href="ab_mission.php"><span>-</span> 宗旨</a></li>
 
-            <li><a href="ab_family.php"><span>-</span> 總會及支會架構 </a></li>
+            <li><a href="ab_structure.php"><span>-</span> 總會及支會架構</a></li>
+
+            <li><a href="ab_emblem.php"><span>-</span> 會徽、會章 及周年大會</a></li>
 
             <li><a href="ab_committee.php"><span>-</span> 幹事會成員</a></li>
 
             <li><a href="ab_members.php"><span>-</span> 會員</a></li>
-
-            <!--<li><a href="Alumni_action/alumni_index.php"><span>-</span> 校友行動</a></li>//-->
 
           </ul>
 
@@ -62,7 +62,17 @@ $contactMenuArray = array("contact.php");
 
         <li class="<?php if(in_array($location, $promotionMenuArray)) echo 'promotion on';else echo'promotion'?>"><a href="ab_promotion.php" title="學術提升計劃"></a></li>
 
-        <li class="<?php if(in_array($location, $seniorMenuArray)) echo 'senior on';else echo'senior'?>"><a href="ab_senior.php" title="學長計劃"></a></li>
+        <li class="<?php if(in_array($location, $seniorMenuArray)) echo 'senior on';else echo'senior'?>"><a href="ab_senior.php" title="學長計劃"></a>
+
+          <ul>
+
+            <li><a href="ab_senior.php"><span>-</span> 計劃簡介</a></li>
+
+            <li><a href="ab_activy.php"><span>-</span> 活動</a></li>
+
+          </ul>
+
+        </li>
 
         <li class="<?php if(in_array($location, $actionMenuArray)) echo 'action on';else echo'action'?>"><a href="activities.php" title="活動"></a></li>
 

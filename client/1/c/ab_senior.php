@@ -46,7 +46,7 @@ $(function(){
       </div>
       <div class="page_box">
         <div class="instructions">
-          <span class="loca">主頁 <span class="lin">></span> <span class="now">學長計劃</span></span>
+          <span class="loca">主頁 <span class="lin">></span> 學長計劃 <span class="lin">></span> <span class="now">計劃簡介</span></span>
         </div>
         <div class="page_main">
         	<h3><img src="Alumni_action/images/tit3.png" width="151" height="26" /></h3>

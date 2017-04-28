@@ -36,30 +36,41 @@ $(function(){
 </head>
 
 <body>
-<?php include"include_top.php"?>
+<?php include"include_top.php" ?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php"?>
+    <?php include"include_left_nav.php" ?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_senior.jpg" />
+        <img src="../img/page_history_baner.jpg" width="720" height="135" />
       </div>
       <div class="page_box about">
         <div class="instructions">
-         <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span>  <span class="now">宗旨</span></span>
+          <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span> <span class="now">總會及支會架構</span></span>
         </div>
         <div class="page_main">
-           <h3><img src="img/ab_mission_h3.png" height="26" /></h3>
-           <div class="text">
-              <ol>
-                 <li>維繫舊同學間的友誼</li>
-                 <li>關心舊同學在社會上不同崗位中的需要</li>
-                 <li> 在精神、物質上彼此扶持，彼此鼓勵</li>
-                 <li>繼續舊同學與母佑會修女及慈幼大家庭之間的友誼</li>
-                 <li>發揚母校的精神</li>
-             </ol>
-             <p></p>
-           </div>
+          <h3><img src="img/ab_emblem_h3.png" height="26" /></h3>
+
+          <div class="text_tit">
+             <ul>
+                 <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">會徽</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">會章</a></li>
+             </ul>
+          </div>
+          <div class="clear"></div>
+
+          <div class="text_cont" name="cont">
+            <p>母佑舊同學會羅馬總會曾在一九九七年八月在羅馬召開全球代表大會，在會議上推出新設計的會徽： 新會徽仍以"MA"為主題（因為「聖母進教之佑」的意文是 Maria Ausilicatrice, 簡寫是MA）。</p>
+             <p><img src="../img/about_logo.jpg"/></p>
+          </div>
+
+          <div class="text_cont" name="cont"  style="display:none;">
+           <p>
+             <a href="../download/constitution.pdf" target="_blank">母佑舊同學會- 聖母書院支會會章 (日期: 2014年11月17日)</a><br>
+             <a href="../download/CouncilElectionGuidelines.pdf" target="_blank">聖母書院法團校董會 – 校友校董選舉指引 (日期: 2014年11月17日)</a><br>
+             <a href="../c/img/content.pdf" target="_blank">母佑會舊同學會會章</a><br>
+           </p>
+          </div>
         </div>
       </div>
     </div>

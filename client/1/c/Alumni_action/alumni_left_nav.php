@@ -19,7 +19,7 @@ $contactMenuArray = array("alumni_contact.php");
         <!--<li class="<?php if(in_array($location, $seniorMenuArray)) echo 'senior on';else echo'senior'?>"><a href="alumni_senior.php" title="學長計劃"></a></li>//-->
         <li class="<?php if(in_array($location, $newsMenuArray)) echo 'news on';else echo'news'?>"><a href="alumni_news.php" title="通告"></a></li>
         <li class="<?php if(in_array($location, $supportMenuArray)) echo 'support on';else echo 'support'?>"><a href="alumni_support.php" title="支持"></a></li>
-        <li class="<?php if(in_array($location, $activyMenuArray)) echo 'activy on';else echo'activy'?>"><a href="alumni_activy.php" title="活動"></a></li>
+        <!--<li class="<?php if(in_array($location, $activyMenuArray)) echo 'activy on';else echo'activy'?>"><a href="alumni_activy.php" title="活動"></a></li>//-->
         <!--<li class="<?php if(in_array($location, $shareMenuArray)) echo 'share on';else echo'share'?>"><a href="alumni_share.php" title="分享"></a></li>//-->
         <li class="<?php if(in_array($location, $contactMenuArray)) echo 'contact on';else echo'contact'?>"><a href="alumni_contact.php" title="聯絡我們"></a></li>
       </ul>

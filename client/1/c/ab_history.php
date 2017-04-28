@@ -61,55 +61,9 @@ $(function(){
         <div class="page_main">
           <h3><img src="img/ab_history_h3.png" width="104" height="26" /></h3>
           <div class="text">
-          	 <p>聖母進教之佑舊同學會創立於一九零八年，由聖鮑思高神父的第四位繼任人真福李納德神父指導成立。目的是發揚鮑思高神父給當時舊同學的勸勉：「你們要團結起來，互相幫助。」</p>
+          	<p>聖母進教之佑舊同學會創立於一九零八年，由聖鮑思高神父的第四位繼任人真福李納德神父指導成立。目的是發揚鮑思高神父給當時舊同學的勸勉：「你們要團結起來，互相幫助。」</p>
             <p>母佑舊同學會是一個國際性的組織，現今會員分佈全球六十多個國家，人數達數十萬。母佑會的總會議員中有一位會長修女是專責舊同學的。</p>
             <p>聖母書院支會於1965 年六月成立，由古凱儀同學擔任第一屆的會長，現仍在聯絡網內的舊生約有二千多位。</p>
-          	 <div class="text_tit">
-                <ul>
-                    <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">宗旨</a></li>
-                    <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">國際聯會組織</a></li>
-                    <li onmouseover="show(this,'cont','hov')" name="d_3"><a href="#">支會內部架構</a></li>
-                    <li onmouseover="show(this,'cont','hov')" name="d_4"><a href="#">會徽</a></li>
-                     <li onmouseover="show(this,'cont','hov')" name="d_5"><a href="#">會章</a></li>
-
-                </ul>
-             </div>
-             <div class="clear"></div>
-             <div class="text_cont" name="cont">
-             	<ol>
-                    <li>維繫舊同學間的友誼</li>
-                    <li>關心舊同學在社會上不同崗位中的需要</li>
-                    <li> 在精神、物質上彼此扶持，彼此鼓勵</li>
-                    <li>繼續舊同學與母佑會修女及慈幼大家庭之間的友誼</li>
-                    <li>發揚母校的精神</li>
-                </ol><p></p>
-             </div>
-
-             <div class="text_cont" name="cont" style="display:none;">
-              	<p><img src="../img/about_1.jpg"/></p>
-             </div>
-
-             <div class="text_cont" name="cont" style="display:none;">
-             	<p>幹事會由會員大會選舉產生，任期兩年，負責策劃及執行一般會務</p>
-            	<p><a href="ab_committee.php"><img src="../img/about_2.jpg"/></a></p>
-             </div>
-
-             <div class="text_cont" name="cont" style="display:none;">
-             	 <p>母佑舊同學會羅馬總會曾在一九九七年八月在羅馬召開全球代表大會，在會議上推出新設計的會徽： 新會徽仍以"MA"為主題（因為「聖母進教之佑」的意文是 Maria Ausilicatrice, 簡寫是MA）。</p>
-                <p><img src="../img/about_logo.jpg"/></p>
-             </div>
-
-             <div class="text_cont" name="cont"  style="display:none;">
-             	<p>
-				<a href="../download/constitution.pdf" target="_blank">母佑舊同學會- 聖母書院支會會章 (日期: 2014年11月17日)</a><br>
-				<a href="../download/CouncilElectionGuidelines.pdf" target="_blank">聖母書院法團校董會 – 校友校董選舉指引 (日期: 2014年11月17日)</a><br>
-				<a href="../c/img/content.pdf" target="_blank">母佑會舊同學會會章</a><br>
-				</p>
-             </div>
-
-
-
-
           </div>
         </div>
       </div>

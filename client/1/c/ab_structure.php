@@ -36,30 +36,37 @@ $(function(){
 </head>
 
 <body>
-<?php include"include_top.php"?>
+<?php include"include_top.php" ?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php"?>
+    <?php include"include_left_nav.php" ?>
     <div class="main_right">
       <div class="slide">
-        <img src="../img/page_senior.jpg" />
+        <img src="../img/page_history_baner.jpg" width="720" height="135" />
       </div>
       <div class="page_box about">
         <div class="instructions">
-         <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span>  <span class="now">宗旨</span></span>
+          <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span> <span class="now">總會及支會架構</span></span>
         </div>
         <div class="page_main">
-           <h3><img src="img/ab_mission_h3.png" height="26" /></h3>
-           <div class="text">
-              <ol>
-                 <li>維繫舊同學間的友誼</li>
-                 <li>關心舊同學在社會上不同崗位中的需要</li>
-                 <li> 在精神、物質上彼此扶持，彼此鼓勵</li>
-                 <li>繼續舊同學與母佑會修女及慈幼大家庭之間的友誼</li>
-                 <li>發揚母校的精神</li>
-             </ol>
-             <p></p>
-           </div>
+          <h3><img src="img/ab_structure_h3.png" height="26" /></h3>
+
+          <div class="text_tit">
+             <ul>
+                 <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">國際聯會組織</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">支會內部架構</a></li>
+             </ul>
+          </div>
+          <div class="clear"></div>
+
+          <div class="text_cont" name="cont">
+             <p><img src="../img/about_1.jpg"/></p>
+          </div>
+
+          <div class="text_cont" name="cont" style="display:none;">
+           <p>幹事會由會員大會選舉產生，任期兩年，負責策劃及執行一般會務</p>
+           <p><a href="ab_committee.php"><img src="../img/about_2.jpg"/></a></p>
+          </div>
         </div>
       </div>
     </div>
