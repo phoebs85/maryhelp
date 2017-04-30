@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 $break = explode('/', $_SERVER["SCRIPT_NAME"]);
 
@@ -40,7 +40,7 @@ $contactMenuArray = array("contact.php");
 
            <ul>
 
-           	<li><a href="ab_family.php"><span>-</span> About <b>OLC PPA</b></a></li>
+            <li><a href="ab_aboutus.php"><span>-</span> About <b>OLC PPA</b></a></li>
 
             <li><a href="ab_history.php"><span>-</span> History</a></li>
 

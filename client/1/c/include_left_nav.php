@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 $break = explode('/', $_SERVER["SCRIPT_NAME"]);
 
@@ -36,11 +36,11 @@ $contactMenuArray = array("contact.php");
 
         <li class="<?php if(in_array($location, $homeMenuArray)) echo 'home on';else echo'home'?>"><a href="index.php" title="主頁"></a></li>
 
-        <li class="<?php if(in_array($location, $aboutMenuArray)) echo 'about on';else echo'about'?>"><a href="ab_family.php" title="關於我們"></a>
+        <li class="<?php if(in_array($location, $aboutMenuArray)) echo 'about on';else echo'about'?>"><a href="ab_aboutus.php" title="關於我們"></a>
 
           <ul>
 
-           	<li><a href="ab_aboutus.php"><span>-</span> 關於 <b>OLC PPA</b></a></li>
+            <li><a href="ab_aboutus.php"><span>-</span> 關於 <b>OLC PPA</b></a></li>
 
             <li><a href="ab_history.php"><span>-</span> 歷史</a></li>
 
