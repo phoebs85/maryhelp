@@ -40,7 +40,7 @@ $contactMenuArray = array("contact.php");
 
           <ul>
 
-            <li><a href="ab_aboutus.php"><span>-</span> 關於 <b>OLC PPA</b></a></li>
+            <li><a href="ab_aboutus.php"><span>-</span> 關於聖母書院舊生會</a></li>
 
             <li><a href="ab_history.php"><span>-</span> 歷史</a></li>
 
