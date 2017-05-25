@@ -60,10 +60,7 @@ $(function(){
 
 <p>我們邀請經驗豐富的專業導師, 包括知名海外教育家, 為高年級學生舉辦寫作技巧工作坊等活動, 希望學生透過實踐, 將學到的技巧運用在文章寫作上, 以改善書寫能力。 為提升初中學生的英語能力及協助她們以英語學習其他學科, 我們計劃為她們開設英語學習支援班。此外, 我們邀請專業導師培訓各級學生朗誦技巧, 藉以加強自信及提升英語表達能力。</p>
 
-<p>詳情請<a href="../download/academic_2013-2014.pdf" target="_blank">按此</a>參閱2013-2014年回顧。</p>
-
-
-<p>如欲索取更多資料，請電郵至<a href="mailto:Alumnae-in-Action@olc.edu.hk" target="_blank">Alumnae-in-Action@olc.edu.hk</a> 與學術組組長Joice Lee 李佩霞或與聖母書院英文科科主任Rosanna Lo 盧秀娟老師聯絡。</p>
+<p>如欲索取更多資料，請電郵至<a href="mailto:Alumnae-in-Action@olc.edu.hk" target="_blank">Alumnae-in-Action@olc.edu.hk</a> 與學術組組長Alice Tse 謝幗慧與聖母書院英文科科主任Rosanna Lo 盧秀娟老師聯絡。</p>
 
 
           </div>
