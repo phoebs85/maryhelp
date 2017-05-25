@@ -64,7 +64,7 @@ $(function(){
 
             <b>Introduction</b>
             <p>The Mentorship Program was first launched in the academic year of 2013-2014 for S4-S6 students. 40 alumnae mentors with working experiences in different professions and 67 mentees were recruited in September, 2013. An orientation was held in OLC on October 5 2013. Two alumnae, Ms. Teresa Tsien and Professor Agnes Chan were invited as speakers in the first Career Talk on November 20 2013. They shared study tips, goal setting and career building tactics with senior students.  Another career talk was organized on March 29, 2014 with two other alumnae, namely, Ms Maria Lau and Ms Bernadette Lee as speakers. They provided the students with valuable insights into the design and nursing professions. </p>
-          <p>In addition, the Mentorship Team has organized various activities, including gatherings and visits, for both mentors and mentees and also summer internship for a few mentees. For more information on these activities, please <a href="../download/pages_2013-2014.pdf" target="_blank">browse</a>  the overview of our 2013-2014 program .</p>
+          
           <b><a href="../download/mentor_20161112.pdf" target="_blank">Mentors</a></b>
           <b><a href="../download/guide_20140319.pdf" target="_blank">Mentors’ Guideline</a></b>          </div>
         </div>

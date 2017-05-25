@@ -48,12 +48,14 @@ $contactMenuArray = array("contact.php");
 
             <li><a href="ab_structure.php"><span>-</span> 總會及支會架構</a></li>
 
-            <li><a href="ab_emblem.php"><span>-</span> 會徽、會章 及周年大會</a></li>
+            <li><a href="ab_emblem.php"><span>-</span> 會徽、會章 及週年大會</a></li>
 
             <li><a href="ab_committee.php"><span>-</span> 幹事會成員</a></li>
 
             <li><a href="ab_members.php"><span>-</span> 會員</a></li>
 
+            <li><a href=""><span>-</span> 聖母書院校友會基金有限公司</a></li>
+            
           </ul>
 
         </li>

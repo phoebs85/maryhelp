@@ -60,9 +60,6 @@ $(function(){
 
 <p>We will organize activities such as writing workshops and follow-up support for senior-level students and invite experienced teachers, including internationally renowned experts, to serve as tutors and instructors. Through practice, students can enhance their writing skills by applying what they have learned in these activities. For lower-form students, we will organize tutorial classes to help and to support them to learn English as a subject and also other content subjects learned in English.  Also, we will invite an experienced coach to give speech training and aim to enhance student’s speaking skills.</p>
 
-<p>Please click <a href="../download/academic_2013-2014.pdf" target="_blank">here</a> for 2013-2014 review.</p>
-
-
 <p>Please contact Ms Joice Lee (Leader of Academic Team) at <a href="mailto:Alumnae-in-Action@olc.edu.hk" target="_blank">Alumnae-in-Action@olc.edu.hk</a> or Ms Rosanna Lo of Our Lady’s College for more details</p>
 
 
