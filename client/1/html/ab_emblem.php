@@ -46,7 +46,7 @@ $(function(){
       </div>
       <div class="page_box">
         <div class="instructions">
-          <span class="loca">Home <span class="lin">></span> <span class="now">Academic Enhancement Program</span></span>
+          <span class="loca">Home <span class="lin">></span> About Us <span class="lin">></span> <span class="now">Emblem & Constitution</span></span>
         </div>
         <div class="page_main">
         	<h3><img src="img/ab_emblem_h3.png" height="26" /></h3>
@@ -55,6 +55,7 @@ $(function(){
              <ul>
                  <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">Emblem</a></li>
                  <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">Constitution</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_3"><a href="#">Annual Assembly</a></li>
              </ul>
           </div>
           <div class="clear"></div>
@@ -70,6 +71,10 @@ $(function(){
              <a href="../download/CouncilElectionGuidelines.pdf" target="_blank">聖母書院法團校董會 – 校友校董選舉指引 (日期: 2014年11月17日)</a><br>
              <a href="../c/img/content.pdf" target="_blank">母佑會舊同學會會章</a><br>
            </p>
+          </div>
+
+          <div class="text_cont" name="cont">
+            <p>Content Here</p>
           </div>
 
         </div>

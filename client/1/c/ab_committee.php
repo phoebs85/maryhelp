@@ -38,7 +38,7 @@ $(function(){
 <?php include"include_top.php" ?>
 <div class="content page">
   <div class="main wrap clearfix">
-    <?php include"include_left_nav.php" ?>   
+    <?php include"include_left_nav.php" ?>
     <div class="main_right">
       <div class="slide">
         <img src="../img/page_history_baner.jpg" width="720" height="135" />
@@ -60,9 +60,11 @@ $(function(){
         <div class="page_main">
           <h3><img src="img/ab_committee_h3.png" width="154" height="26" /></h3>
           <div class="text">
-          <img src="../img/ab_committee.jpg" width="600" height="241" /><br />
+          <p>幹事會由會員大會選舉產生，任期兩年，負責策劃及執行一般會務<br>
+          <b>2016-2018年度幹事會成員名單</b>
+          <img src="../img/ab_committee.jpg" width="600" height="241" /><br /></p>
           <br />電郵地址： <a href="mailto:ppa@olc.edu.hk" target="_blank">ppa@olc.edu.hk</a><br />
-<br />
+          <br />
 
             <table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
               <tr>
@@ -80,15 +82,15 @@ $(function(){
                 <td>曾曼瑩</td>
                 <td>顧問老師</td>
               </tr>
-			  <tr>
+			        <tr>
                 <td>Aleydis Yeung</td>
                 <td>楊詠琛</td>
                 <td>顧問老師</td>
               </tr>
 
             </table><br />
-<br />
-<table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
+            <br />
+            <table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
               <tr>
               <td colspan="2"></td>
                 <td>職位</td>
@@ -174,7 +176,7 @@ $(function(){
                 <td>蔡美雯</td>
                 <td>總務</td>
               </tr>
-			  <tr>
+			        <tr>
                 <td>Alice Ho</td>
                 <td>何小雲</td>
                 <td>總務</td>
@@ -182,11 +184,6 @@ $(function(){
               <tr>
                 <td>Mary Yiu</td>
                 <td>姚靜惠</td>
-                <td>總務</td>
-              </tr>
-              <tr>
-                <td>May Lee</td>
-                <td>李淑玲</td>
                 <td>總務</td>
               </tr>
               <tr>

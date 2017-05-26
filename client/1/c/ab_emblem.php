@@ -55,6 +55,7 @@ $(function(){
              <ul>
                  <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">會徽</a></li>
                  <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">會章</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_3"><a href="#">週年大會</a></li>
              </ul>
           </div>
           <div class="clear"></div>
@@ -70,6 +71,10 @@ $(function(){
              <a href="../download/CouncilElectionGuidelines.pdf" target="_blank">聖母書院法團校董會 – 校友校董選舉指引 (日期: 2014年11月17日)</a><br>
              <a href="../c/img/content.pdf" target="_blank">母佑會舊同學會會章</a><br>
            </p>
+          </div>
+
+          <div class="text_cont" name="cont">
+            <p>母佑舊同學會- 聖母書院支會的週年會員大會於每年不遲於 8 月召開一次，當中包括幹事會對會員作出會務及財務報告，以及選出來屆幹事會成員及修改本會會章等等事項。另外，如有需要，幹事會亦可召開非常會員大會以處理於週年大會休會期間的特別議程。</p>
           </div>
         </div>
       </div>

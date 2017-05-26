@@ -298,3 +298,5 @@ p{ line-height:20px;}
 .alumni_activy .text ul li a{color: #7A7A7A;font-size: 13px; font-weight: bold;}
 .alumni_activy .text ul li a:link,.alumni_activy .text ul li a:visited{color: #7A7A7A;}
 .alumni_activy .text ul li a:hover{color:#de0052;}
+
+.foundation .page_main .text ol li {list-style-type: none; padding-bottom: 15px;}
