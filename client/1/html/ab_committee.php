@@ -71,8 +71,8 @@ $(function(){
                 <td width="260"> Advisor</td>
               </tr>
               <tr>
-                <td>Aleydis Yeung</td>
-                <td>楊詠琛</td>
+                <td>Mabel Choy</td>
+                <td>蔡珮雯</td>
                 <td>Teacher Advisor</td>
               </tr>
               <tr>
@@ -81,14 +81,17 @@ $(function(){
                 <td>Teacher Advisor</td>
               </tr>
               <tr>
-                <td>Mabel Choy</td>
-                <td>蔡珮雯</td>
+                <td>Aleydis Yeung</td>
+                <td>楊詠琛</td>
                 <td>Teacher Advisor</td>
               </tr>
-
             </table><br />
-<br />
-<table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
+            <br />
+            <table width="600" border="1" bordercolor="#8bd2f3" cellpadding="0" cellspacing="0">
+              <tr>
+              <td colspan="2"></td>
+                <td><strong>Occupation</strong></td>
+              </tr>
               <tr>
                 <td width="156">Emily Lau</td>
                 <td width="176">劉瑞琦</td>
@@ -185,11 +188,7 @@ $(function(){
                 <td>Marketing & Publicity </td>
               </tr>
 
-
             </table>
-
-
-
           </div>
         </div>
       </div>

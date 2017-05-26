@@ -54,8 +54,8 @@ $contactMenuArray = array("contact.php");
 
             <li><a href="ab_members.php"><span>-</span> 會員</a></li>
 
-            <li><a href=""><span>-</span> 聖母書院校友會基金有限公司</a></li>
-            
+            <li><a href="ab_foundation.php"><span>-</span> 聖母書院校友會基金有限公司</a></li>
+
           </ul>
 
         </li>
