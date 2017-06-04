@@ -46,7 +46,7 @@ $(function(){
       </div>
       <div class="page_box foundation">
         <div class="instructions">
-         <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span>  <span class="now">聖母書院校友會基金有限公司</span></span>
+         <span class="loca">主頁 <span class="lin">></span> 關於我們 <span class="lin">></span>  <span class="now">聖母書院校友會基金</span></span>
         </div>
         <div class="page_main">
            <h3><img src="img/ab_foundation_h3.png" height="26" /></h3>

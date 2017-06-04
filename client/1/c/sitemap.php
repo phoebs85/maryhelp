@@ -63,7 +63,7 @@ $(function(){
                 <li><a href="ab_emblem.php">會徽、會章 及週年大會</a></li>
                 <li><a href="ab_committee.php">幹事會成員</a></li>
                 <li><a href="ab_members.php">會員</a></li>
-                <li><a href="ab_foundation.php">聖母書院校友會基金有限公司</a></li>
+                <li><a href="ab_foundation.php">聖母書院校友會基金</a></li>
             </ul>
             <ul>
                 <li class="sitmap_title"><a href="news.php">最新消息</a></li>
