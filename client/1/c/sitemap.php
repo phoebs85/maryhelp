@@ -54,7 +54,7 @@ $(function(){
                 <p><a href="index.php">主頁</a></p>
                 <img src="../img/sitmap.png" />
              </div>
-            <ul class="spe">
+            <ul class="spe chinese">
                 <li class="sitmap_title"><a href="ab_aboutus.php">關於我們</a></li>
                 <li><a href="ab_aboutus.php">關於聖母書院舊生會</a></li>
                 <li><a href="ab_history.php">歷史</a></li>
