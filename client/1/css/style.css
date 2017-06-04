@@ -222,7 +222,7 @@ p{ line-height:20px;}
 .sitemap .text ul {  float: left;  height:135px; border:1px #e2e2e2 solid; margin-right:20px; padding:10px 15px; margin-bottom: 25px; margin-top: 48px; white-space:nowrap; *margin-right:15px;}
 .sitemap_e .text ul { height: 165px; padding:10px 10px; margin-bottom: 0px; *margin-right:15px;}
 .sitemap_e .text ul.line2 { height: 125px; margin-top: 42px; }
-.sitemap .text  .spe{ padding:10px  20px; height: 245px;}
+.sitemap .text  .spe{ padding:10px  20px; height: 245px; width: 152px;}
 .sitemap .mapbreak {margin-left: 25px;}
 .sitemap ul li { line-height: 26px;text-align:center;}
 .sitemap .text ul li.sitmap_title { font-size: 16px; margin-bottom: 12px; font-weight:bold;font-family:"Microsoft YaHei"}
