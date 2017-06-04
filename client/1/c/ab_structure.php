@@ -55,7 +55,7 @@ $(function(){
              <ul>
                  <li class="hov" onmouseover="show(this,'cont','hov')" name="d_1"><a href="#">國際聯會組織</a></li>
                  <li onmouseover="show(this,'cont','hov')" name="d_2"><a href="#">支會內部架構</a></li>
-                 <li onmouseover="show(this,'cont','hov')" name="d_3"><a href="#">FMA 母佑舊同學會資訊</a></li>
+                 <li onmouseover="show(this,'cont','hov')" name="d_3"><a href="#">聖母進教之佑孝女會(母佑會)</a></li>
              </ul>
           </div>
           <div class="clear"></div>
@@ -73,44 +73,42 @@ $(function(){
             <img src="../img/ab_family_3.jpg" width="720" height="284"/><br /><br />
 
             <div class="text tables"><img src="../img/ab_family_1.jpg" width="185" height="139"  style=" float:right; padding:0 0 30px 30px"/>
-              <p>The World Confederation of the Past Pupils of Daughters of Mary Help of Christians is a lay non-profit association . It is one of the members of the Salesian Family, where the Rector Major is the Chancellor and the centre of the association. The members are numerous, consisting of person of every age, culture and social status. Every past pupil works to grow as a person according to the Preventive System of Don Bosco: REASON - RELIGION – LOVING KINDNESS. In other words, the human values of DIGNITY, FAITH and SOLIDARITY, with the sensitiveness of the Salesian Charism of  Maria Domenica Mazzarello, cofoundress of the Institute of Daughters of Mary Help of Christians.</p>
-              <b>Every past pupil works for the affirmation of the values where the dignity of the human person is based, working in different fields:</b>
+              <p>聖母進教之佑舊同學世界聯會為一非謀利俗家機構，也為慈幼大家庭成員之一。慈幼會總會長是其會長及支柱。成員眾多，包括所有年齡、文化及社會地位。每位舊生的生活宗旨都會依從鮑思高的預防教育法: 理智、宗教、仁愛，亦即是全人類所奉行的價值觀: 尊嚴、信仰、同舟共濟。 每位成員並都蒙受母佑會之創會會祖聖女瑪莎利羅貼心的慈幼神恩。</p>
+              <b>每位在下列崗位上的舊生都會為建基於人性尊嚴的價值觀作出貢獻:</b>
               <ol>
-              <li>In the family</li>
-              <li>During work or the study</li>
-              <li>In the social and political fields</li>
-              <li>In the school, in the spare time, in the social communication</li>
+              <li>家庭中</li>
+              <li>工作或學習時</li>
+              <li>在社會及政治各界別中</li>
+              <li>學校中、閒瑕時、交談/溝通時</li>
               </ol>
               <img src="../img/ab_family_2.jpg" width="240" height="369"  style=" float:right; padding:0 0 20px 20px"/>
               <br />
-              <b>In the socio cultural realities, the past pupils work for: </b>
+              <b>在社會文化層面，舊生在下列範疇作出貢獻:</b>
               <ol>
-              <li>Improving the relations with the other past pupils who are in difficulties </li>
-              <li>Offering opportunities to the members to deepen the educational heritage</li>
-              <li>Assuring the conditions that are in harmony with the education received in the Salesian environment</li>
-              <li>Supporting the solidarity activities </li>
-              <li>Supporting the activities for the young and the poor  </li>
-              <li>Finding ways to improve the female condition </li>
-              <li>Using the mass media as instruments to communicate the values. </li>
-              <li>Improving the active participation of past pupils in the Salesian mission, working with the FMA and the local church</li>
+              <li>鞏固舊生之間的友誼，更特別關顧在困境中的舊生</li>
+              <li>為成員提供深化教育傳承的機會</li>
+              <li>確保一般環境可配合慈幼敎育的環境</li>
+              <li>為成員的團結提供支援</li>
+              <li>為青年活動及幫助窮苦人士的活動提供支援</li>
+              <li>改善女性狀況</li>
+              <li>善用大眾媒體提倡聯會所尊重的價值觀</li>
+              <li>令舊生更積極參與慈幼傳教，和母佑會及所屬堂區 共同努力。</li>
               </ol>
 
               <br />
-              <b>Every member:</b>
+              <b>每位成員都</b>
               <ol>
-              <li>Takes part in the educational mission of the Daughters of Mary Help of Christians </li>
-              <li>Works according to the Salesian style</li>
-              <li>Promotes the dignity of the woman, the life and the family</li>
-              <li>Protects the human rights and the peace</li>
-              <li>Promotes the activity for the young people </li>
-              <li>Opens to the intercultural and interrelligious dialogue</li>
-              <li>Works according to the Preventive System of Don Bosco and Mother Mazzarello</li>
+              <li>參與母佑會的教育使命</li>
+              <li>依照慈幼精神工作</li>
+              <li>促進女性、生命及家庭的尊嚴</li>
+              <li>保護人權及和平</li>
+              <li>促進青年活動</li>
+              <li>展開文化及宗教之間的對話</li>
+              <li>依照鮑思高神父及聖女瑪沙利羅的預防教育法從事工作</li>
               </ol>
 
               <br /><br />
-              <p>Sr. Maritza Ortiz, FMA Delegate for the World Confederation of FMA Past Pupils; represents the Institute in the animation and formative accompaniment of the Association of Past Pupils; keeps in contact with the delegates of the federation and provides guidelines for carrying out their responsibilities; promotes the valuing of the resources of the laity and takes care of the reciprocal relationships between the association and the FMA Institute E-mail: <a href="mailto:maritzafma@cgfma.org" target="_blank">maritzafma@cgfma.org</a></p>
-              <p>For further details of the World Conferderation of FMA Past Pupils, please visit the following website.
-              Website: <a href="http://www.exallievefma.org" target="_blank">http://www.exallievefma.org</a></p>
+              <p>關於聖母進教之佑舊同學世界聯會的其他資料，請瀏覽下列綱址。綱址: <a href="http://www.exallievefma.org" target="_blank">http://www.exallievefma.org</a></p>
           </div>
         </div>
       </div>

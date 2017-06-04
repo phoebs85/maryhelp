@@ -50,11 +50,11 @@ $contactMenuArray = array("contact.php");
 
             <li><a href="ab_emblem.php"><span>-</span> Emblem and Constitution</a></li>
 
-            <li><a href="ab_committee.php"><span>-</span> Committee Member</a></li>
+            <li><a href="ab_committee.php"><span>-</span> Committee Members</a></li>
 
             <li><a href="ab_members.php"><span>-</span> Membership</a></li>
 
-            <li><a href="ab_foundation.php"><span>-</span> OLC PPA Foundation</a></li>
+            <li><a href="ab_foundation.php"><span>-</span> OLC Alumni Foundation</a></li>
 
           </ul>
 
