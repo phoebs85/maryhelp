@@ -68,7 +68,7 @@ $(function(){
                 <li>To honour and reward excellence in research and development of technologies, including the provisions of prizes, scholarships, bursaries, grants and other awards therefor.</li>
               <ul>
 
-              <div style="margin-top: 25px;"><b><a href="../download/CFP078_Columbia_Core_Guideweb.pdf" target="_blank">Full version of the Articles of Association of Our Lady’s College Alumni Foundation Limited</a></b></div>
+              <div style="margin-top: 25px;"><b><a href="../download/Cap_622_AoA.pdf" target="_blank">Full version of the Articles of Association of Our Lady’s College Alumni Foundation Limited</a></b></div>
            </div>
         </div>
       </div>
