@@ -105,12 +105,6 @@ $(function(){
                 <td>劉瑞琦</td>
                 <td>副會長</td>
               </tr>
-
-              <!--<tr>
-                <td>Rita Chu</td>
-                <td>朱麗嬋</td>
-                <td>外務聯絡</td>
-              </tr>-->
               <tr>
                 <td>Agatha Lai</td>
                 <td>賴潔美</td>

@@ -60,7 +60,7 @@ $(function(){
         <div class="page_main">
           <h3><img src="img/ab_committee_h3.png" height="26" /></h3>
           <div class="text">
-          <img src="../img/ab_committee.jpg" width="600" height="247" /><br />
+          <img src="../img/ab_committee.jpg" width="600" height="247" /><br /><br />
           <br />Email Contact: <a href="mailto:ppa@olc.edu.hk" target="_blank">ppa@olc.edu.hk</a><br />
           <br />
 
@@ -93,99 +93,99 @@ $(function(){
                 <td><strong>Occupation</strong></td>
               </tr>
               <tr>
-                <td width="156">Emily Lau</td>
-                <td width="176">劉瑞琦</td>
+                <td width="156">Rebecca Choy</td>
+                <td width="176">蔡美碧</td>
                 <td width="260">Chairperson</td>
               </tr>
               <tr>
-                <td>Flora Tse</td>
-                <td>謝慧芬</td>
+                <td>Emily Lau</td>
+                <td>劉瑞琦</td>
                 <td>Vice-Chairperson</td>
               </tr>
-              <!--<tr>
-                <td>Rita Chu</td>
-                <td>朱麗嬋</td>
-                <td>外務聯絡</td>
-              </tr>-->
               <tr>
-                <td>Shirley Pau</td>
-                <td>鮑雪瑩</td>
-                <td>Consultant / Fund-raising</td>
-              </tr>
-              <tr>
-                <td>Endora Wong</td>
-                <td>黄文侶</td>
-                <td>Consultant / Fund-raising</td>
-              </tr>
-              <tr>
-                <td>Vivian Ho</td>
-                <td>何潔珍</td>
-                <td>Consultant / Fund-raising</td>
-              </tr>
-              <tr>
-                <td>Ophelia Lau</td>
-                <td>劉潔貞</td>
+                <td>Agatha Lai</td>
+                <td>賴潔美</td>
                 <td>Internal Secretary</td>
               </tr>
               <tr>
-                <td>May Lee</td>
-                <td>李淑玲</td>
-                <td>Social and Event Coordinator  </td>
+                <td>Willis Lai</td>
+                <td>黎靜文</td>
+                <td>Internal Secretary</td>
               </tr>
               <tr>
-                <td>Jessica Lee  </td>
-                <td>李寶雯</td>
-                <td>Social and Event Coordinator </td>
-              </tr>
-              <tr>
-                <td>Joanne Li</td>
-                <td>李詠賢</td>
-                <td>Social and Event Coordinator  </td>
-              </tr>
-              <tr>
-                <td>Avis Cheung</td>
-                <td>張敏芝</td>
-                <td>Social and Event Coordinator </td>
-              </tr>
-              <tr>
-                <td>Katherine Ng</td>
-                <td>伍玉琴</td>
-                <td>Social and Event Coordinator </td>
-              </tr>
-              <tr>
-                <td>Marie Fung</td>
-                <td>馮坤慧</td>
-                <td>Social and Event Coordinator </td>
+                <td>Bertha Chui</td>
+                <td>徐文珊</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Esther Chak</td>
                 <td>翟鳳媚</td>
-                <td>Past Pupil's Contact Coordinator</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Cecilia Cheon</td>
+                <td>張偉麗</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Anita Wong</td>
+                <td>黃德瑩</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Alice Tse</td>
+                <td>謝幗慧</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Vivian Ho</td>
+                <td>何潔珍</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Endora Wong</td>
+                <td>黄文侶</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Rosa Chan</td>
+                <td>陳兆萍</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Dorina Wong</td>
+                <td>黃劍好</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Flora Tse</td>
+                <td>謝慧芬</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Maggie Choi</td>
                 <td>蔡美雯</td>
-                <td>Past Pupil's Contact Coordinator</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Alice Ho</td>
+                <td>何小雲</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Mary Yiu</td>
+                <td>姚靜惠</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Christy Lee</td>
                 <td>李淑媛</td>
-                <td>Marketing & Publicity </td>
+                <td></td>
               </tr>
               <tr>
-                <td>Juliana Lau</td>
-                <td>劉潔怡</td>
-                <td>Marketing & Publicity </td>
-              </tr>
-              <tr>
-                <td>Willis Lau</td>
-                <td>黎靜文</td>
-                <td>Marketing & Publicity </td>
-              </tr>
-              <tr>
-                <td>Winnie Suen</td>
-                <td>孫詠詩</td>
-                <td>Marketing & Publicity </td>
+                <td>Katherine Ng</td>
+                <td>伍玉琴</td>
+                <td></td>
               </tr>
 
             </table>
