@@ -57,7 +57,7 @@ $(function(){
                      <li><a href="support.php">Donation Form</a></li>
                    </ul>
                  </div>
-                   <p><b style="padding-bottom: 0px;">The Objective of the Foundation</b></p>
+                   <p><b style="padding-bottom: 0px;">The Objectives of the Foundation</b></p>
                  <ul>
                    <li>To promote, support, sponsor and further education, including the provisions of prizes, awards, scholarships, bursaries and grants;</li>
                    <li>To provide educational-related activities for advancement of education;</li>
@@ -68,7 +68,7 @@ $(function(){
                    <li>To honour and reward excellence in research and development of technologies, including the provisions of prizes, scholarships, bursaries, grants and other awards therefor.</li>
                  <ul>
 
-                 <div style="margin-top: 25px;"><b><a href="" target="_blank">Full version of the Articles of Association of Our Lady’s College Alumni Foundation Limited</a></b></div>
+                 <div style="margin-top: 25px;"><b><a href="../download/CFP078_Columbia_Core_Guideweb.pdf" target="_blank">Full version of the Articles of Association of Our Lady’s College Alumni Foundation Limited</a></b></div>
               </div>
         </div>
       </div>
